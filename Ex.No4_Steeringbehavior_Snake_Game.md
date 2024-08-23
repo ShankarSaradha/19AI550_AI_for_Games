@@ -2,7 +2,7 @@
 
 #### DATE:  22/08/2024      
 
-#### REGISTER NUMBER : 212221240009
+#### REGISTER NUMBER : 212221240052
 
 ### AIM: 
 To write a python program to simulate the snake game using steering behaviors
