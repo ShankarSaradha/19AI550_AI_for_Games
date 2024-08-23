@@ -1,17 +1,22 @@
 # Ex.No: 2 Implementation of Stack Plate game using Queue 
-### DATE:                                                                            
-### REGISTER NUMBER : 212221240011
+
+#### DATE: 22/08/2024
+
+#### REGISTER NUMBER : 212221240009
+
 ### AIM: 
 To write a python program to simulate the process of stacking plates.
-### Algorithm:
+
+### ALGORITHM:
 1. Initialize the Stack
 2. Create an empty list to represent the stack.
 3. Push the plate on top of stack
 4. Pop the plate from top.
 5. Display the plate details.
 6. Create an interactive menu and display it.
-### Program:
-```
+   
+### PROGRAM:
+```python
 class PlateStack:
     def __init__(self):
         self.stack = []
@@ -68,8 +73,14 @@ if __name__ == "__main__":
     plate_stack_game()
 
 ```
-### Output:
-![stake](https://github.com/user-attachments/assets/0bf69818-d56a-4ac3-9ce5-bcac361a2427)
 
-### Result:
+
+
+
+### OUTPUT:
+
+![360549980-fa5e84ba-02e0-401f-a3df-9c4abfc03927](https://github.com/user-attachments/assets/e074a241-594e-4333-bea2-730ff712f889)
+
+
+### RESULT:
 Thus the simple Stack plate game was implemented using data structure Stack.
