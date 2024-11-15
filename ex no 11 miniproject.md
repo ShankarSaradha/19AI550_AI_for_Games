@@ -1,6 +1,6 @@
 # Ex.No: 11  Mini Project 
 #### DATE: 25/10/2024                                                                            
-#### REGISTER NUMBER : 212221240009
+#### REGISTER NUMBER : 212221240052
 
 ### AIM: 
 The aim is to create a Block Collector game where an AI player automatically moves to collect items (red boxes) and avoids obstacles (blue boxes).
